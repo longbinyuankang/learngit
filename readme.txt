@@ -3,5 +3,4 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
-sdx123456123
-
+sdx is a pretty girl.
